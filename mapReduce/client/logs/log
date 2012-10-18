@@ -1,0 +1,111 @@
+
+traversing folder
+get all mappers:
+got one mapper:172.0.1.72_1636
+got one mapper:172.0.1.31_1636
+Starting distribute tasks
+Available computers->172.0.1.72_1636,172.0.1.31_1636
+ remain tasks:172.0.1.72_1636,172.0.1.31_1636
+map computer:172.0.1.72 port:1636 Sig:1339553691745url_path->/dispatch?serverIp=119.75.217.56&&serverPort=80&&packetsInfo=\\www-b87efbc4541/dispatch/172.0.1.72_1636&&sig=1339553691745
+map computer:172.0.1.31 port:1636 Sig:1339553691876url_path->/dispatch?serverIp=119.75.217.56&&serverPort=80&&packetsInfo=\\www-b87efbc4541/dispatch/172.0.1.31_1636&&sig=1339553691876
+get a response:0
+finish a taskGot error: socket hang up
+fault patience:
+fault task172.0.1.31_1636
+fault computer172.0.1.31_1636
+current usable computers:172.0.1.72_1636
+Starting distribute tasks
+Available computers->172.0.1.72_1636
+ remain tasks:172.0.1.31_1636
+map computer:172.0.1.72 port:1636 Sig:1339553752250url_path->/dispatch?serverIp=119.75.217.56&&serverPort=80&&packetsInfo=\\www-b87efbc4541/dispatch/172.0.1.31_1636&&sig=1339553752250
+get a response:0
+finish a task
+ all task finish
+traversing folder
+get all mappers:
+got one mapper:172.0.1.72_1636
+got one mapper:172.0.1.31_1636
+Starting distribute tasks
+Available computers->172.0.1.72_1636,172.0.1.31_1636
+ remain tasks:172.0.1.72_1636,172.0.1.31_1636
+map computer:172.0.1.72 port:1636 Sig:1339553816038url_path->/dispatch?serverIp=119.75.217.56&&serverPort=80&&packetsInfo=\\www-b87efbc4541/dispatch/172.0.1.72_1636&&sig=1339553816038
+map computer:172.0.1.31 port:1636 Sig:1339553816169url_path->/dispatch?serverIp=119.75.217.56&&serverPort=80&&packetsInfo=\\www-b87efbc4541/dispatch/172.0.1.31_1636&&sig=1339553816169
+get a response:0
+finish a taskGot error: socket hang up
+fault patience:
+fault task172.0.1.31_1636
+fault computer172.0.1.31_1636
+current usable computers:172.0.1.72_1636
+Starting distribute tasks
+Available computers->172.0.1.72_1636
+ remain tasks:172.0.1.31_1636
+map computer:172.0.1.72 port:1636 Sig:1339553894970url_path->/dispatch?serverIp=119.75.217.56&&serverPort=80&&packetsInfo=\\www-b87efbc4541/dispatch/172.0.1.31_1636&&sig=1339553894970
+get a response:0
+finish a task
+ all task finish
+traversing folder
+get all mappers:
+got one mapper:172.0.1.72_1636
+got one mapper:172.0.1.31_1636
+Starting distribute tasks
+Available computers->172.0.1.72_1636,172.0.1.31_1636
+ remain tasks:172.0.1.72_1636,172.0.1.31_1636
+map computer:172.0.1.72 port:1636 Sig:1339553974092url_path->/dispatch?serverIp=119.75.217.56&&serverPort=80&&packetsInfo=\\www-b87efbc4541/dispatch/172.0.1.72_1636&&sig=1339553974092
+map computer:172.0.1.31 port:1636 Sig:1339553974223url_path->/dispatch?serverIp=119.75.217.56&&serverPort=80&&packetsInfo=\\www-b87efbc4541/dispatch/172.0.1.31_1636&&sig=1339553974223
+get a response:0
+finish a taskGot error: socket hang up
+fault patience:
+fault task172.0.1.31_1636
+fault computer172.0.1.31_1636
+current usable computers:172.0.1.72_1636
+Starting distribute tasks
+Available computers->172.0.1.72_1636
+ remain tasks:172.0.1.31_1636
+map computer:172.0.1.72 port:1636 Sig:1339553980922url_path->/dispatch?serverIp=119.75.217.56&&serverPort=80&&packetsInfo=\\www-b87efbc4541/dispatch/172.0.1.31_1636&&sig=1339553980922
+get a response:0
+finish a task
+ all task finish
+traversing folder
+get all mappers:
+got one mapper:172.0.1.72_1636
+got one mapper:172.0.1.31_1636
+Starting distribute tasks
+Available computers->172.0.1.72_1636,172.0.1.31_1636
+ remain tasks:172.0.1.72_1636,172.0.1.31_1636
+map computer:172.0.1.72 port:1636 Sig:1339554045367url_path->/dispatch?serverIp=119.75.217.56&&serverPort=80&&packetsInfo=\\www-b87efbc4541/dispatch/172.0.1.72_1636&&sig=1339554045367
+map computer:172.0.1.31 port:1636 Sig:1339554045498url_path->/dispatch?serverIp=119.75.217.56&&serverPort=80&&packetsInfo=\\www-b87efbc4541/dispatch/172.0.1.31_1636&&sig=1339554045498
+get a response:0
+finish a taskGot error: socket hang up
+fault patience:
+fault task172.0.1.31_1636
+fault computer172.0.1.31_1636
+current usable computers:172.0.1.72_1636
+Starting distribute tasks
+Available computers->172.0.1.72_1636
+ remain tasks:172.0.1.31_1636
+map computer:172.0.1.72 port:1636 Sig:1339554091683url_path->/dispatch?serverIp=119.75.217.56&&serverPort=80&&packetsInfo=\\www-b87efbc4541/dispatch/172.0.1.31_1636&&sig=1339554091683
+get a response:0
+finish a task
+ all task finish
+traversing folder
+get all mappers:
+got one mapper:172.0.1.72_1636
+got one mapper:172.0.1.31_1636
+Starting distribute tasks
+Available computers->172.0.1.72_1636,172.0.1.31_1636
+ remain tasks:172.0.1.72_1636,172.0.1.31_1636
+map computer:172.0.1.72 port:1636 Sig:1339554148209url_path->/dispatch?serverIp=119.75.217.56&&serverPort=80&&packetsInfo=\\www-b87efbc4541/dispatch/172.0.1.72_1636&&sig=1339554148209
+map computer:172.0.1.31 port:1636 Sig:1339554148341url_path->/dispatch?serverIp=119.75.217.56&&serverPort=80&&packetsInfo=\\www-b87efbc4541/dispatch/172.0.1.31_1636&&sig=1339554148341
+get a response:0
+finish a tasktimeout
+fault patience:
+fault task172.0.1.31_1636
+fault computer172.0.1.31_1636
+current usable computers:172.0.1.72_1636
+Starting distribute tasks
+Available computers->172.0.1.72_1636
+ remain tasks:172.0.1.31_1636
+map computer:172.0.1.72 port:1636 Sig:1339554153358url_path->/dispatch?serverIp=119.75.217.56&&serverPort=80&&packetsInfo=\\www-b87efbc4541/dispatch/172.0.1.31_1636&&sig=1339554153358
+get a response:0
+finish a task
+ all task finish
