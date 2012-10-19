@@ -1,3 +1,7 @@
+下载地址
+nodejs:www.nodejs.org
+mongodb:www.mongodb.org
+
 结构：
 发包程序分为2个部分
 1.	server：分布式的存在于各种类型机器上（windows或者linux）。用于发送大量数据包。1）文件结构.（sendPackets， log）主要功能由sendPackets.js完成。在对应目录下会有log文件产生，每次发包都会有一个新的log产生。为了查错，临时保留的。
