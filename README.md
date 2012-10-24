@@ -27,6 +27,14 @@ mongodb:www.mongodb.org
 
 重要：
 Mapper文件，最后必须空行。
-Packets和dispatch目录需要共享出去，一遍server访问。
-所有输出保存在对应执行目录下的log文件夹client只有一个log。Server有多个log。
-每个跑server的PC。需要先有访问共享的权限。Linux需要mount后才可以访问。
+Packets和dispatch目录需要共享出去，distributor需要访问。
+所有输出保存在对应执行目录下的log文件夹client只有一个log。distributor有多个log。
+每个跑distributor的PC。需要先有访问共享的权限。Linux需要mount后才可以访问。
+
+使用步骤：（请严格按照步骤依次进行）
+1. 新建文件C:\db，启动mongodb（mongod --dbpath c:\db），更改distributor目录下的mongodb.js文件的第7行里面的地址为你mongodb进程所在电脑的ip。
+2. 共享Packets和dispatch目录
+3. 构造需要发送的数据包，存放到Packets目录里面
+4. 拷贝distributor目录到不同电脑，用于发送数据包。
+5. 执行distributor下面的sendpackets（node sendPackets 1636），然后再mapper.txt里面填入每一台distributor电脑的ip和这个地方指定的端口
+6. 执行controller下的client（node client.js \\\\172.0.1.31\\packets serverIp port）serverIp+port是需要让distributor发送数据包的位置。
