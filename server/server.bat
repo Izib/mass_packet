@@ -1,0 +1,1 @@
+node distribute.js \\172.0.1.90\packets  serverIP 80
